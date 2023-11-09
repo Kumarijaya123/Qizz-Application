@@ -1,0 +1,31 @@
+.grid {
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.btn-prev{
+    padding: 0.5em 1em;
+  font-size: 1em;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(239, 37, 37);
+  border: none;
+  border-radius: 0.4em;
+  transition: background-color 0.3s;
+ margin-right: 250px;
+}
+.btn-next {
+
+  padding: 0.5em 1em;
+  font-size: 1em;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(49, 177, 46);
+  border: none;
+  border-radius: 0.4em;
+  transition: background-color 0.3s;
+  margin-left: 250px;
+}
