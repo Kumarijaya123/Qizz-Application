@@ -7,4 +7,5 @@ I made a quix application according to the task. I have used React.js as fronten
 
 2.  Secondly the sample of quizz
 
-3.  ![Uploading Screenshot (212).png…]()
+
+![Screenshot (234)](https://github.com/Kumarijaya123/Qizz-Application/assets/81750694/ab41d4de-45a2-4d30-b87f-d7aa2be4eb8d)
